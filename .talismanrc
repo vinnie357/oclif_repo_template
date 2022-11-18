@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: .github/workflows/manualRelease.yml
+  checksum: bfc236f61ca40f24e3dd68dabe9abd24c9925167768fde2a0117e4e5f7ea43b4
+- filename: .github/workflows/onPushToMain.yml
+  checksum: 683bb5778f9556f87fdfa5188ef75253900c643c1dd99b2063599b0dde6fc432
+- filename: .github/workflows/onRelease.yml
+  checksum: fb1bd66479d123fe9919472b490939572478b50da89ed80557e75bc73406e664
+- filename: .github/workflows/automerge.yml
+  checksum: 69ce0b2efdf46a4e62a70ff06ccc846dd5ec5e68b3d70e58c9023a7e2e074b01
+- filename: scripts/gitleaks.sh
+  checksum: f72cc6f9359f80eb6418b883c67e11b7ad744de3e316c799e34e8afea510e62c
+- filename: .devcontainer/scripts/node-debian.sh
+  checksum: 1ad7e97cb006557ca2b1cdb1d7fd67db2e53d63e12339b8fef2eac6fff5ab2a0
+version: ""
